@@ -1,0 +1,67 @@
+My Laptop Specifications:
+
+Model: Apple MacBook Air M2
+Color: Starlight
+Weight: 1.24 kg (2.7 pounds)
+Dimensions:
+    - Height: 0.44 inches (1.13 cm)
+    - Width: 11.97 inches (30.41 cm)
+    - Depth: 8.46 inches (21.5 cm)
+
+Processor: Apple M2 (Apple Silicon) - Unified CPU and GPU
+    - CPU: 8-core (4 Performance cores + 4 Efficiency cores)
+        - Architecture: Apple-designed
+        - Performance Cores:
+            - L1 Cache: 192KB instruction cache + 128KB data cache per core
+            - L2 Cache: 16MB shared L2 cache per core cluster (four cores)
+            - Out-of-order execution
+            - Branch prediction
+        - Efficiency Cores:
+            - L1 Cache: 128KB instruction cache + 64KB data cache per core
+            - L2 Cache: 4MB shared L2 cache per core cluster (four cores)
+            - Optimized for power efficiency
+    - GPU: 8-core or 10-core GPU
+        - Apple-designed architecture
+        - Supports Metal graphics framework
+        - Accelerated video encoding and decoding
+        - L3 Cache: 8MB shared L3 cache (used by both CPU cores and GPU)
+    - Neural Engine: 16-core Neural Engine
+
+Memory: 8GB LPDDR5 SDRAM (6,400 MT/s)
+Storage: 256GB SSD (Read/Write speeds: 1.4 GB/s to 2.2 GB/s)
+    - Interface: PCIe Gen 4
+
+Display:
+    - 13.6-inch Liquid Retina display
+    - 60Hz refresh rate
+    - True Tone technology
+    - 2560-by-1664 native resolution at 224 pixels per inch
+    - P3 wide color gamut
+
+Connectivity:
+    - Wi-Fi 6E (802.11ax)
+        - Supports 2.4GHz, 5GHz, and 6GHz bands
+    - Bluetooth 5.3
+    - 1 x MagSafe 3 charging port (up to 30W charging)
+    - 2 x Thunderbolt / USB 4 ports (up to 40 Gbps)
+        - Supports DisplayPort, Thunderbolt 4, and USB 4
+    - 1 x 3.5mm headphone jack
+
+Audio:
+    - Four-speaker sound system
+    - Spatial Audio support
+    - Support for Dolby Atmos
+
+Camera: 1080p FaceTime HD camera
+    - Advanced image signal processor (ISP) for improved image quality
+
+Battery:
+    - Integrated battery
+    - Capacity: 52.6 Wh (approx. 4,561 mAh)
+    - Up to 18 hours of wireless web surfing and video playback
+    - Fast charging: Up to 50% charge in approximately 30 minutes with a compatible charger
+
+Keyboard: Backlit Magic Keyboard with full-size keys and scissor mechanism keys
+    - Touch ID sensor integrated into the power button
+
+Operating System: macOS Sonoma (upgradable from macOS Ventura)
