@@ -1,4 +1,4 @@
-# Course Assignments and Progress
+# Assignments and Progress for DS3254 Systems & Implementation of Algorithms 
 
 ## Introduction
 Welcome to my repository for the course assignments and progress. My name is Ayush Rai, and my student ID is 20221068. This repository will contain all my assignments and track my progress throughout the course.

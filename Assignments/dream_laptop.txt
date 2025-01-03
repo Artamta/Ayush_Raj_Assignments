@@ -1,0 +1,116 @@
+I will need A PC for gaming and Mac M4 MAX as a porrtable option. 
+
+My High-End PC Specifications:
+
+Case:
+
+Model: Lian Li Lancool III
+Motherboard:
+
+Model: ASUS ROG Maximus Z790 Hero
+Chipset: Intel Z790
+CPU:
+
+Option 1: AMD Ryzen 9 7950X3D
+
+Cores/Threads: 16 Cores / 32 Threads (8 Performance + 8 Efficiency)
+Base Clock: 4.5 GHz
+Max Boost Clock: 5.7 GHz
+Cache: 144MB L3 Cache (96MB 3D V-Cache)
+Option 2: Intel Core i9-13900KS
+
+Cores/Threads: 24 Cores / 32 Threads (8 Performance + 16 Efficient)
+Base Clock: 5.20 GHz
+Max Turbo Frequency: 6.00 GHz
+Cache: 36MB L3 Cache
+CPU Cooler:
+
+Model: Corsair iCUE Hydro X Series
+Type: 240mm or 360mm radiator
+RAM:
+
+Type: DDR5
+Capacity: 128GB (4x 32GB kits)
+Speed: 6400MHz CL32
+GPU:
+
+Model: NVIDIA GeForce RTX 4090
+CUDA Cores: 16,384
+Base Clock: 2235 MHz*
+Boost Clock: 2520 MHz
+Memory: 24GB GDDR6X
+Memory Bus: 384-bit
+Memory Speed: 21 Gbps
+Storage:
+
+Boot Drive: 2TB Samsung 990 Pro PCIe 5.0 NVMe SSD
+Storage Drive: 4TB Seagate BarraCuda Pro 7200 RPM HDD
+Power Supply:
+
+Model: Corsair RM1200x
+Wattage: 1200W
+Efficiency: 80+ Platinum
+Cooling:
+
+CPU Cooler: Corsair iCUE Hydro X Series
+Case Fans: 6 x 140mm high-performance fans (3 intake, 3 exhaust)
+Monitors (4-Monitor Setup):
+
+2x High-Refresh Rate Monitors:
+
+Model: ASUS ROG Swift 360Hz PG27AQN
+Size: 27-inch
+Resolution: 2560 x 1440 (WQHD)
+Refresh Rate: 360Hz
+2x 8K Monitors:
+
+Model: Samsung 8K Odyssey Neo G9
+Size: 49-inch
+Resolution: 7680 x 2160 (8K)
+Keyboard:
+
+Model: Leopold FC980C
+Switches: Cherry MX Speed Silver
+Mouse:
+
+Model: Logitech G Pro X Superlight 2
+Headphones:
+
+Model: Audeze LCD-GX
+Microphone:
+
+Model: Shure SM7B
+Speakers:
+
+Model: Bowers & Wilkins 800 D4
+Table:
+
+Model: Secretlab Magnus Metal Desk
+Chair:
+
+Model: Emperor 200
+Operating System: Windows 11 (Pro)
+
+My MacBook Pro M4 Max Specifications:
+
+Model: MacBook Pro 16-inch
+
+Processor: Apple M4 Max
+CPU: 14-core CPU (12 Performance cores + 4 Efficiency cores)
+GPU: 40-core GPU
+Neural Engine: 16-core
+Memory Bandwidth: 410GB/s
+Ram: 96GB Unified Memory for cpu and gpu
+Storage: 4TB SSD
+Display: 16.2-inch Liquid Retina XDR display
+Resolution: 3456 x 2234 pixels
+Refresh Rate: Up to 240Hz (ProMotion)
+Connectivity:
+Three Thunderbolt 4 ports
+HDMI port
+SDXC card slot
+Headphone jack
+MagSafe 3 port
+Keyboard: Magic Keyboard with Touch ID
+Trackpad: Force Touch trackpad
+Operating System: macOS Sonoma
