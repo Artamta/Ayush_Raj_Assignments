@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+void PrintNum(int n)
+{
+    if (n == 1)
+    {
+        cout << "1" << endl;
+    }
+    else
+    {
+        cout << n << " ";
+        PrintNum(n - 1);
+    }
+}
+
+int main()
+{
+    PrintNum(10000);
+
+    return 0;
+}
