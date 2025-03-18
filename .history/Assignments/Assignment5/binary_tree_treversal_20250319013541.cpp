@@ -29,24 +29,9 @@ void preorder(struct Node *root)
 
 void inorder(struct Node *root)
 {
-    if (root == NULL)
-    {
-        return;
-    }
     preorder(root->left);
     cout << root->data << " " << endl;
     preorder(root->right);
-}
-
-void postorder(struct Node *root)
-{
-    if (root == NULL)
-    {
-        return;
-    }
-    postorder(root->left);
-    postorder(root->right);
-    cout << root->data << " ";
 }
 int main()
 {
@@ -58,7 +43,6 @@ int main()
     root->right->right = new Node(6);
     root->right->left = new Node(7);
     // preorder(root);
-    // inorder(root);
-    postorder(root);
+    inorder(root);
     return 0;
 }
