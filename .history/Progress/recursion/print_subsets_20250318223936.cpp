@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <initializer_list> // Optional, for clarity with C++11 features
 using namespace std;
 
 void printSubsets(vector<int> &arr, vector<int> &ans, int i)
@@ -19,8 +18,10 @@ void printSubsets(vector<int> &arr, vector<int> &ans, int i)
     printSubsets(arr, ans, i + 1);
 
     // exclude
+
     ans.pop_back();
     printSubsets(arr, ans, i + 1);
+    ;
 }
 
 int main()
