@@ -59,10 +59,10 @@ int main()
     root = Insert(root, 15);
     root = Insert(root, 10);
     root = Insert(root, 5);
-    cout << Search(root, 14) << endl;
-    // Insert(root,15);
-    // Insert(root,15);
-    // Insert(root,15);
+    Search(root, 15)
+        // Insert(root,15);
+        // Insert(root,15);
+        // Insert(root,15);
 
-    return 0;
+        return 0;
 }

@@ -33,7 +33,7 @@ BstNode *Insert(BstNode *root, int data)
     }
     return root;
 }
-bool Search(BstNode *root, int data)
+bool Search(Bst Node *root, int data)
 {
     if (root == NULL)
     {
@@ -43,11 +43,7 @@ bool Search(BstNode *root, int data)
     {
         return true;
     }
-    else if (data < root->data)
-    {
-        return Search(root->left, data);
-    }
-    else
+    else if (data <= root->data)
     {
         return Search(root->right, data);
     }
@@ -59,7 +55,6 @@ int main()
     root = Insert(root, 15);
     root = Insert(root, 10);
     root = Insert(root, 5);
-    cout << Search(root, 14) << endl;
     // Insert(root,15);
     // Insert(root,15);
     // Insert(root,15);

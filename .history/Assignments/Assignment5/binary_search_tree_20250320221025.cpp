@@ -8,15 +8,6 @@ struct BstNode
     BstNode *right;
 };
 
-BstNode *GetNewNode(int data)
-{
-    BstNode *NewNode = new BstNode();
-    NewNode->data = data;
-    NewNode->left = NULL;
-    NewNode->left = NULL;
-    return NewNode;
-}
-
 BstNode *Insert(BstNode *root, int data)
 {
     if (root == NULL)
@@ -33,25 +24,16 @@ BstNode *Insert(BstNode *root, int data)
     }
     return root;
 }
-bool Search(BstNode *root, int data)
+
+BstNode *GetNewNode(int data)
 {
-    if (root == NULL)
-    {
-        return false;
-    }
-    else if (root->data == data)
-    {
-        return true;
-    }
-    else if (data < root->data)
-    {
-        return Search(root->left, data);
-    }
-    else
-    {
-        return Search(root->right, data);
-    }
+    BstNode *NewNode = new BstNode();
+    NewNode->data = data;
+    NewNode->left = NULL;
+    NewNode->left = NULL;
+    return NewNode;
 }
+
 int main()
 {
 
@@ -59,7 +41,6 @@ int main()
     root = Insert(root, 15);
     root = Insert(root, 10);
     root = Insert(root, 5);
-    cout << Search(root, 14) << endl;
     // Insert(root,15);
     // Insert(root,15);
     // Insert(root,15);
